@@ -48,7 +48,7 @@ Project | Role | Description
 
 ## Contact
 
-- GitHub: [@mourner](https://github.com/akassama)
-- Twitter: [@mourner](https://twitter.com/abdouliekassama)
-- LinkedIn: [@mourner](https://www.linkedin.com/in/akassama/)
-- Website: [@mourner](https://akassama.com/)
+- GitHub: [@akassama](https://github.com/akassama)
+- Twitter: [@abdouliekassama](https://twitter.com/abdouliekassama)
+- LinkedIn: [@akassama](https://www.linkedin.com/in/akassama/)
+- Website: [@akassama.com](https://akassama.com/)
