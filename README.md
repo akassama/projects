@@ -4,6 +4,10 @@ A list of open source projects I created, maintain or actively contribute to. [!
 
 Project | Role | Description
 --- | --- | ---
+[codeigniter-starter-app](https://github.com/akassama/codeigniter-starter-app) | author | A CodeIgniter 4 Starter Project with useful features like example of CRUD, HTMX, Datatables, Login systems and more.
+[file-input-validator](https://github.com/akassama/FileInputValidator) | author | A simple JavaScript library for validating file upload inputs.
+[dotnet-mailjet-emailer](https://github.com/akassama/dotnet-mailjet-emailer) | author | A simple example of a sending email project using ASP.NET Core and MailJet.
+[lais-bs-image-upload](https://github.com/akassama/lais-bs-image-upload) | author | A Bootstrap/jQuery plugin that enables you to preview image uploads.
 [GexpoCMS](https://github.com/akassama/gexpo-cms) | author | An Open source ASP.NET Core 3.1 CMS based on [bootstrapmade](https://bootstrapmade.com/bootstrap-5-templates/) themes.
 [jquery-datables-crud](https://github.com/akassama/jquery-datables-crud) | author | A simple CRUD implementation using JQuery Datables in with ASP.NET Core 3.1 including export functionalities.
 [password-generator](https://github.com/akassama/password-generator) | author | A simple web tool to generate secure passwords.
