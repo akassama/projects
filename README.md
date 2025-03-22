@@ -4,7 +4,7 @@ A list of open source projects I created, maintain or actively contribute to. [!
 
 Project | Role | Description
 --- | --- | ---
-[codeigniter-starter-app](https://github.com/akassama/codeigniter-starter-app) | author | A CodeIgniter 4 Starter Project with useful features like example of CRUD, HTMX, Datatables, Login systems and more.
+[igniter-cms](https://github.com/akassama/igniter-cms) | author | A comprehensive Content Management System (CMS) built with CodeIgniter 4, featuring both front-end and back-end functionalities, including a RESTful API for data retrieval.
 [file-input-validator](https://github.com/akassama/FileInputValidator) | author | A simple JavaScript library for validating file upload inputs.
 [dotnet-mailjet-emailer](https://github.com/akassama/dotnet-mailjet-emailer) | author | A simple example of a sending email project using ASP.NET Core and MailJet.
 [lais-bs-image-upload](https://github.com/akassama/lais-bs-image-upload) | author | A Bootstrap/jQuery plugin that enables you to preview image uploads.
